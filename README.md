@@ -1,16 +1,16 @@
 # github_mobile_app
 
-A new Flutter project.
+Completed the Github mobile app. We can able to access the orgs, repository, branches, and commits
 
-## Getting Started
+Task reference link - https://www.figma.com/file/wU2OBSDdtDDNdv2WqM9OWE/Github-mobile-app?type=design&node-id=0-1&mode=design&t=1VnvhU80tPWBn5Xp-0
 
-This project is a starting point for a Flutter application.
+## Features:
+- Login to the GitHub account
+- Access the GitHub organization, repositories, branches, and commits
+- Show the branches and commit for multiple organization
+- Logout GitHub account
 
-A few resources to get you started if this is your first Flutter project:
+## Demo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/SuryaCinnadurai/Github-Mobile-App/assets/81167904/d6fed43f-f07f-4e73-aaeb-2e49bc8ea2bd
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
